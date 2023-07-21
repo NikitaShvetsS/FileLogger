@@ -1,0 +1,2 @@
+[2023-07-21 13:44:02][DEBUG] Message: This is a debug message.
+[2023-07-21 13:44:45][DEBUG] Message: This is a debug message.
